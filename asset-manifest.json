@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/elen-purple/react-task-1/static/css/main.f855e6bc.css",
-    "main.js": "/elen-purple/react-task-1/static/js/main.36ab28ff.js",
-    "static/js/453.128eeeba.chunk.js": "/elen-purple/react-task-1/static/js/453.128eeeba.chunk.js",
-    "index.html": "/elen-purple/react-task-1/index.html",
-    "main.f855e6bc.css.map": "/elen-purple/react-task-1/static/css/main.f855e6bc.css.map",
-    "main.36ab28ff.js.map": "/elen-purple/react-task-1/static/js/main.36ab28ff.js.map",
-    "453.128eeeba.chunk.js.map": "/elen-purple/react-task-1/static/js/453.128eeeba.chunk.js.map"
+    "main.css": "/react-task-1/static/css/main.f855e6bc.css",
+    "main.js": "/react-task-1/static/js/main.73bc786c.js",
+    "static/js/453.128eeeba.chunk.js": "/react-task-1/static/js/453.128eeeba.chunk.js",
+    "index.html": "/react-task-1/index.html",
+    "main.f855e6bc.css.map": "/react-task-1/static/css/main.f855e6bc.css.map",
+    "main.73bc786c.js.map": "/react-task-1/static/js/main.73bc786c.js.map",
+    "453.128eeeba.chunk.js.map": "/react-task-1/static/js/453.128eeeba.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.36ab28ff.js"
+    "static/js/main.73bc786c.js"
   ]
 }
